@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-email-composer",
   "version": "0.8.15",
-  "description": "Provides access to the standard interface that manages the editing and sending an email message",
+  "description": "\n        Provides access to the standard interface that manages\n        the editing and sending an email message\n    ",
   "cordova": {
     "id": "cordova-plugin-email-composer",
     "platforms": [
@@ -44,6 +44,10 @@
       "version": ">=4.3.0"
     }
   ],
-  "author": "Sebastián Katzer",
-  "license": "Apache 2.0"
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/diospyros/cordova-plugin-email-composer/issues"
+  },
+  "homepage": "https://github.com/diospyros/cordova-plugin-email-composer#readme"
 }
